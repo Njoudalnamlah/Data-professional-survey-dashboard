@@ -16,4 +16,5 @@ This project visualizes survey responses from 630 data professionals across vari
 - Excel for data preparation
 
 ## 📊 Dashboard
-<img width="382" alt="Dashboard" src="https://github.com/user-attachments/assets/180be795-dbe9-42f3-8601-ca2516f4c0b0" />
+![image](https://github.com/user-attachments/assets/e8bc7a25-be3d-40c8-8cf4-cd817d1f1647)
+
